@@ -1,0 +1,16 @@
+h5py==3.10.0
+matplotlib==3.7.2
+matplotlib-inline==0.1.7
+numpy==1.25.2
+opencv-python==4.8.0.76
+openpyxl==3.1.5
+packaging==23.1
+pandas==2.1.0
+Pillow==10.0.0
+scikit-image==0.24.0
+scipy==1.11.2
+seaborn==0.12.2
+tifffile==2024.2.12
+timm==0.6.13
+torch==1.13.0
+tqdm==4.66.1
